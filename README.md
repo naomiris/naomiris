@@ -13,9 +13,9 @@
 
 ```javascript
 const Naomi = {
-  About me: [I'm proactive, Team Player, Creative, Hard-Working], 
+  About_me: ["I'm proactive", "Team Player", "Creative", "Hard-Working"], 
   Skills: [Javascript, HTML, CSS, React, Redux, Nodejs, Sequelize, PostgreSQL, Express],
-  Learning now: [Bootstrap, MUI, styled-components],
+  Learning_now: ["Bootstrap", "MUI", "styled-components"],
  
   
   }
